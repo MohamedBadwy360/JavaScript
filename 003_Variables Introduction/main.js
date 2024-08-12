@@ -11,6 +11,13 @@
     - Example: var x = 5;
 
     - if any html element has an id attribute, we can access it using the document object and the id attribute value because it is like a global variable.
+
+    * Identifiers Name Conventions And Rules:
+    - The first character must be a letter, an underscore (_), or a dollar sign ($).
+    - Subsequent characters may be letters, digits, underscores, or dollar signs.
+    - JavaScript is case-sensitive.
+    - Reserved words (like JavaScript keywords) cannot be used as identifiers.
+    - We use Camel Case for naming variables, functions, and objects.
 */
 
 var myName = "Mohamed";
